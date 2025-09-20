@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **backend development using Spring/Springboot and Hibernate**
 
-- 💬 Ask me about **Java, Springboot, Flutter**
+- 💬 Ask me about **Java, Springboot, Express, Nestjs**
 
 - 📫 How to reach me **aryansingh20nov@gmail.com**
 
