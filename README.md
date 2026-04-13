@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">Java | Springboot | Flutter</h3>
+<h3 align="center">Java | Javascript | Typescript</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e472ejdaabz0l338t9ky5baz9vpthe27c5kef4k8fbv&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 
-- 🌱 I’m currently learning **backend development using Spring/Springboot and Hibernate**
+- 🌱 I’m currently working with various backend frameworks like Springboot, Express.js, Nest.js**
 
-- 💬 Ask me about **Java, Springboot, Express, Nestjs**
+- 💬 I am also exploring AI with Spring AI, LangChain, LangGraph**
 
 - 📫 How to reach me **aryansingh20nov@gmail.com**
 
