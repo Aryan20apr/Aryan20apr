@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working with various backend frameworks like Springboot, Express.js, Nest.js**
 
-- 💬 I am also exploring AI with Spring AI, LangChain, LangGraph**
+- 💬 I am also exploring AI with Spring AI, LangChain, LangGraph
 
 - 📫 How to reach me **aryansingh20nov@gmail.com**
 
