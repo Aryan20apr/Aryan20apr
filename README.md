@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **aryansingh20nov@gmail.com**
 
+<br clear="both" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aryan-singh-336622208"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
