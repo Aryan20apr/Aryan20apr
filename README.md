@@ -1,21 +1,39 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">Java | Javascript | Typescript</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e472ejdaabz0l338t9ky5baz9vpthe27c5kef4k8fbv&ep=v1_gifs_search&rid=200.webp&ct=g">
+<h3 align="center">Backend Engineer • Java • JavaScript • TypeScript</h3>
 
-- 🌱 I’m currently working with various backend frameworks like Springboot, Express.js, Nest.js
-- 💬 I am also exploring AI with Spring AI, LangChain, LangGraph
-- 📫 How to reach me **aryansingh20nov@gmail.com**
+<p align="center">
+  <a href="mailto:aryansingh20nov@gmail.com"><img src="https://img.shields.io/badge/Email-aryansingh20nov%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/aryan-singh-336622208"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/aryan.singh.2002"><img src="https://img.shields.io/badge/Instagram-aryan.singh.2002-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.leetcode.com/aryan_singh"><img src="https://img.shields.io/badge/LeetCode-aryan__singh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
-<br clear="both" />
+---
 
-### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/aryan-singh-336622208) [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/aryansingh) [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/aryan.singh.2002) [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/aryan_singh)
+## 👨‍💻 About Me
+- 🌱 I’m currently working with backend frameworks like **Spring Boot, Express.js, and Nest.js**.
+- 🤖 I’m exploring AI integrations with **Spring AI, LangChain, and LangGraph**.
+- 🧩 I enjoy building scalable backend systems and distributed services.
 
-### Languages and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,express,nestjs,python,c,cpp,dart,flutter,docker,aws,azure,firebase,mongodb,mysql,postgres,redis,rabbitmq,kafka,jenkins,git,postman,sqlite,oracle&perline=9" alt="Tech Stack Icons" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan20apr&show_icons=true&locale=en&layout=compact" alt="aryan20apr" /></p>
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/aryan-singh-336622208"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://fb.com/aryansingh"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/aryan.singh.2002"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.leetcode.com/aryan_singh"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan20apr&show_icons=true&locale=en" alt="aryan20apr" /></p>
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan20apr&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan20apr&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan20apr&" alt="aryan20apr" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan20apr" alt="GitHub Streak" />
+</p>
