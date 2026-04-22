@@ -34,6 +34,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aryan20apr&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan20apr" alt="GitHub Streak" />
-</p>
